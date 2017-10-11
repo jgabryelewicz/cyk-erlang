@@ -1,0 +1,13 @@
+S -> GN GV
+GV -> GV C
+GV -> V GN
+C -> P GN
+GN -> Det N
+GN -> elle
+GV -> mange
+V -> mange
+P -> avec
+N -> poisson
+N -> fourchette
+Det -> du
+Det -> une
